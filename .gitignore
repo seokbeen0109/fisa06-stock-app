@@ -6,7 +6,6 @@
 
 # 폴더는 폴더명/ 로 작성
 stadv/
-.env
 
 # ! not
 # txt 확장자 파일 전부 제외, requirements는 포함
