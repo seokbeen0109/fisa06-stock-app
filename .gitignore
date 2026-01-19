@@ -5,7 +5,7 @@
 *.txt
 
 # 폴더는 폴더명/ 로 작성
-st/
+stadv/
 .env
 
 # ! not
