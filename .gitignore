@@ -1,0 +1,13 @@
+# 파일은 파일명으로 작성
+
+# 간단한 정규식 사용 가능
+# * 은 모든 파일 의미
+*.txt
+
+# 폴더는 폴더명/ 로 작성
+st/
+.env
+
+# ! not
+# txt 확장자 파일 전부 제외, requirements는 포함
+!requirements.txt
